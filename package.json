@@ -1,0 +1,19 @@
+{
+  "name": "easy-component",
+  "version": "1.0.0",
+  "description": "基于antd3.x二次封装的组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CraCrayon/easy-component.git"
+  },
+  "author": "crayon\u001b[A\u001b[B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CraCrayon/easy-component/issues"
+  },
+  "homepage": "https://github.com/CraCrayon/easy-component#readme"
+}
